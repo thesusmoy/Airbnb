@@ -4,6 +4,7 @@ import { Heart } from 'lucide-react';
 import Link from 'next/link';
 import { THotel } from '@/types/hotel';
 import { useTranslations } from 'next-intl';
+import StarIcon from '../icons/star-icon';
 
 export default function HotelCard({ hotel }: { hotel: THotel }) {
     const t = useTranslations('Hotels');
@@ -32,7 +33,13 @@ export default function HotelCard({ hotel }: { hotel: THotel }) {
 
             <div className="mt-1">
                 <p className="leading-none text-sm font-medium">{t(hotel.name)}</p>
-                <small className="text-gray-500">${hotel.price} for 2 nights</small>
+                <small className="text-gray-500 flex items-center">
+                    <span>${hotel.price} for 2 nights · </span>
+                    <span className="flex items-center ml-1">
+                        <StarIcon />
+                        <span className="ml-1">{hotel.rating}</span>
+                    </span>
+                </small>
             </div>
         </div>
     );

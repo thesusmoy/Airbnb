@@ -2,6 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 import { Button } from '../ui/button';
 import { getTranslations } from 'next-intl/server';
+import { Globe, Facebook, Twitter, Instagram } from 'lucide-react';
 
 type FooterLink = {
     map(arg0: (section: FooterLink, index: number) => React.JSX.Element): React.ReactNode;

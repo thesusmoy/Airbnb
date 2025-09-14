@@ -35,7 +35,7 @@ export default function SearchPage({ searchParams }: { searchParams: SearchParam
         <React.Fragment>
             <Navbar />
             <main className="container py-10">
-                <h1 className="text-2xl font-bold mb-5">Search Results for "{location}"</h1>
+                <h1 className="text-2xl font-bold mb-5">Search Results for `{location}`</h1>
                 <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-8">
                     {filteredHotels.length > 0 ? (
                         filteredHotels.map((hotel) => <HotelCard key={hotel.id} hotel={hotel} />)

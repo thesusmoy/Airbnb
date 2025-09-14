@@ -1,6 +1,5 @@
 import React from 'react';
 import Link from 'next/link';
-import { DollarSign, Globe, Facebook, Twitter, Instagram } from 'lucide-react';
 import { Button } from '../ui/button';
 import { getTranslations } from 'next-intl/server';
 

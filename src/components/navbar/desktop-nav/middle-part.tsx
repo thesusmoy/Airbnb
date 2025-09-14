@@ -1,12 +1,14 @@
 import React from 'react';
-import { motion } from 'framer-motion';
+import { motion, Variants } from 'framer-motion';
 import Link from 'next/link';
 import Image from 'next/image';
-import { imageHelper } from '@/assets/images/images';
 import { useTranslations } from 'next-intl';
 import { usePathname } from 'next/navigation';
+import homeIcon from '@/assets/images/home.png';
+import experienceIcon from '@/assets/images/experience.png';
+import serviceIcon from '@/assets/images/service.png';
 
-const containerVariants = {
+const containerVariants: Variants = {
     hidden: { opacity: 0, y: -100 },
     visible: {
         opacity: 1,
@@ -21,7 +23,7 @@ const containerVariants = {
     exit: { opacity: 0, y: -100 },
 };
 
-const itemVariants = {
+const itemVariants: Variants = {
     hidden: { opacity: 0, y: -20 },
     visible: { opacity: 1, y: 0 },
 };
@@ -46,7 +48,7 @@ export default function MiddlePart() {
             <motion.div variants={itemVariants}>
                 <Link href={'/'} className={getLinkClass('/homes')}>
                     <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }}>
-                        <Image src={imageHelper.home} height={40} width={40} alt="home" />
+                        <Image src={homeIcon} height={40} width={40} alt="home" />
                     </motion.div>
                     <span>{t('home')}</span>
                 </Link>
@@ -54,7 +56,7 @@ export default function MiddlePart() {
             <motion.div variants={itemVariants}>
                 <Link href={'/'} className={getLinkClass('/experiences')}>
                     <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }}>
-                        <Image src={imageHelper.experience} height={40} width={40} alt="experience" />
+                        <Image src={experienceIcon} height={40} width={40} alt="experience" />
                     </motion.div>
                     <span>{t('experience')}</span>
                 </Link>
@@ -62,7 +64,7 @@ export default function MiddlePart() {
             <motion.div variants={itemVariants}>
                 <Link href={'/'} className={getLinkClass('/services')}>
                     <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }}>
-                        <Image src={imageHelper.service} height={40} width={40} alt="service" />
+                        <Image src={serviceIcon} height={40} width={40} alt="service" />
                     </motion.div>
                     <span>{t('service')}</span>
                 </Link>

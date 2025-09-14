@@ -9,11 +9,13 @@ import {
     DialogTitle,
     DialogTrigger,
 } from '@/components/ui/dialog';
-import { imageHelper } from '@/assets/images/images';
 import AnimatedNavLink from '../../ui/animated-navlink';
 import { Button } from '../../ui/button';
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from '@/components/ui/accordion';
 import { Calendar } from '../../ui/calendar';
+import homeIcon from '@/assets/images/home.png';
+import experienceIcon from '@/assets/images/experience.png';
+import serviceIcon from '@/assets/images/service.png';
 
 export default function MobileNavbarModal() {
     const [open, setOpen] = useState(true);
@@ -48,9 +50,9 @@ export default function MobileNavbarModal() {
                                 <X />
                             </Button>
                         </div>
-                        <AnimatedNavLink path="/" img={imageHelper.home} label="Home" />
-                        <AnimatedNavLink path="/experience" img={imageHelper.experience} label="Experience" />
-                        <AnimatedNavLink path="/service" img={imageHelper.service} label="Service" />
+                        <AnimatedNavLink path="/" img={homeIcon} label="Home" />
+                        <AnimatedNavLink path="/experience" img={experienceIcon} label="Experience" />
+                        <AnimatedNavLink path="/service" img={serviceIcon} label="Service" />
                     </div>
                     <div className=" w-full rounded-2xl space-y-5">
                         <Accordion

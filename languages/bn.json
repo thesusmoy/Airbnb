@@ -1,0 +1,127 @@
+{
+    "Navbar": {
+        "home": "হোম",
+        "service": "সেবা",
+        "experience": "অভিজ্ঞতা",
+        "rightSide": {
+            "become-a-host": "হোস্ট হন",
+            "help-center": {
+                "index": "হেল্প সেন্টার",
+                "become-a-host": "হোস্ট হন",
+                "short-info": "হোস্টিং শুরু করা এবং অর্থ উপার্জন করা খুবই সহজ",
+                "refer-host": "একজন হোস্টকে রেফার করুন",
+                "cohost": "সহ-হোস্ট খুঁজুন",
+                "gift-cards": "গিফট কার্ড",
+                "login-signup": "লগইন বা সাইন আপ করুন"
+            }
+        }
+    },
+    "SecondRow": {
+        "where": "কোথায়",
+        "placeholder": "আপনার গন্তব্য খুঁজুন",
+        "checkIn": "চেক ইন",
+        "checkOut": "চেক আউট",
+        "who": "কে",
+        "checkInOutDescription": "তারিখ যোগ করুন",
+        "guest": "অতিথি যোগ করুন"
+    },
+    "SecondScrolledRow": {
+        "anytime": "যেকোনো সময়",
+        "anywhere": "যেকোনো স্থানে",
+        "add-guests": "অতিথি যোগ করুন"
+    },
+    "Hotels": {
+        "guests-favorite": "অতিথিদের প্রিয়",
+        "Cozy Beachfront Cottage": " আরামদায়ক বিচফ্রন্ট কটেজ",
+        "Modern Downtown Loft": "আধুনিক ডাউনটাউন লফট",
+        "Rustic Mountain Cabin": " দেহাতি মাউন্টেন কেবিন",
+        "Charming Parisian Apartment": " কমনীয় প্যারিসিয়ান অ্যাপার্টমেন্ট",
+        "Luxury Villa with Private Pool": "প্রাইভেট পুল সহ বিলাসবহুল ভিলা",
+        "Secluded Treehouse Getaway": "নির্জন ট্রিহাউস গেটওয়ে",
+        "Historic Charleston Single House": "ঐতিহাসিক চার্লসটন একক বাড়ি",
+        "Sunny Scottsdale Oasis": "সানি স্কটসডেল মরুদ্যান",
+        "New Orleans Garden District Charm": "নিউ অরলিন্স গার্ডেন জেলা আকর্ষণ",
+        "Chicago Skyline View Penthouse": "শিকাগো স্কাইলাইন ভিউ পেন্টহাউস"
+    },
+    "HotelTitles": {
+        "popular-homes-in-kuala-lumpur": "কুয়ালালামপুরের জনপ্রিয় বাড়ি",
+        "available-next-month-is-bangkok": "ব্যাংককে আগামী মাসে উপলব্ধ",
+        "stay-in-london": "লন্ডনে থাকুন",
+        "homes-in-tokyo": "টোকিওতে বাড়ি",
+        "homes-in-toronto": "টরন্টোতে বাড়ি",
+        "available-next-month-in-toronto": "টরন্টোতে আগামী মাসে উপলব্ধ",
+        "homes-in-seoul": "সিউলে বাড়ি",
+        "popular-homes-in-busan": "বুসানের জনপ্রিয় বাড়ি"
+    },
+    "Inspiration": {
+        "title": "ভবিষ্যতের ছুটির জন্য অনুপ্রেরণা",
+        "travel-tips-tab": "ভ্রমণ টিপস এবং অনুপ্রেরণা",
+        "airbnb-friendly-tab": "এয়ারবিএনবি-বান্ধব অ্যাপার্টমেন্ট",
+        "family-travel-hub-title": "পারিবারিক ভ্রমণ কেন্দ্র",
+        "family-travel-hub-subtitle": "পরামর্শ এবং অনুপ্রেরণা",
+        "family-budget-travel-title": "পারিবারিক বাজেট ভ্রমণ",
+        "family-budget-travel-subtitle": "কম খরচে সেখানে যান",
+        "vacation-ideas-title": "যেকোনো বাজেটের জন্য ছুটির ধারণা",
+        "vacation-ideas-subtitle": "বিশেষ কিছু না করেই এটিকে বিশেষ করুন",
+        "travel-europe-title": "বাজেটে ইউরোপ ভ্রমণ",
+        "travel-europe-subtitle": "বাচ্চাদের ইউরোপে কীভাবে নিয়ে যাবেন",
+        "outdoor-adventure-title": "বাইরের অ্যাডভেঞ্চার",
+        "outdoor-adventure-subtitle": "পরিবারের সাথে প্রকৃতি অন্বেষণ করুন",
+        "bucket-list-parks-title": "বাকেট লিস্ট জাতীয় উদ্যান",
+        "bucket-list-parks-subtitle": "পারিবারিক ভ্রমণের জন্য অবশ্যই দেখার মতো পার্ক",
+        "kid-friendly-parks-title": "শিশু-বান্ধব রাষ্ট্রীয় উদ্যান",
+        "kid-friendly-parks-subtitle": "এই পরিবার-বান্ধবগুলি দেখুন",
+        "albuquerque-title": "আলবুকার্ক",
+        "albuquerque-subtitle": "নিউ মেক্সিকো",
+        "atlanta-metro-title": "আটলান্টা মেট্রো",
+        "atlanta-metro-subtitle": "জর্জিয়া",
+        "augusta-title": "অগাস্টা",
+        "augusta-subtitle": "জর্জিয়া",
+        "austin-metro-title": "অস্টিন মেট্রো",
+        "austin-metro-subtitle": "টেক্সাস",
+        "baton-rouge-title": "বাটন রুজ",
+        "baton-rouge-subtitle": "লুইসিয়ানা",
+        "bentonville-title": "বেন্টনভিল",
+        "bentonville-subtitle": "আর্কানসাস",
+        "birmingham-title": "বার্মিংহাম",
+        "birmingham-subtitle": "আলাবামা"
+    },
+    "FooterLinks": [
+        {
+            "title": "সহায়তা",
+            "links": [
+                "হেল্প সেন্টার",
+                "নিরাপত্তা সমস্যার জন্য সহায়তা পান",
+                "এয়ারকভার",
+                "বৈষম্য বিরোধী",
+                "বাতিলের বিকল্প",
+                "প্রতিবন্ধী সহায়তা",
+                "প্রতিবেশী রিপোর্ট করুন"
+            ]
+        },
+        {
+            "title": "হোস্টিং",
+            "links": [
+                "হেল্প সেন্টার",
+                "নিরাপত্তা সমস্যার জন্য সহায়তা পান",
+                "এয়ারকভার",
+                "বৈষম্য বিরোধী",
+                "বাতিলের বিকল্প",
+                "প্রতিবন্ধী সহায়তা",
+                "প্রতিবেশী রিপোর্ট করুন"
+            ]
+        },
+        {
+            "title": "এয়ারবিএনবি",
+            "links": [
+                "হেল্প সেন্টার",
+                "নিরাপত্তা সমস্যার জন্য সহায়তা পান",
+                "এয়ারকভার",
+                "বৈষম্য বিরোধী",
+                "বাতিলের বিকল্প",
+                "প্রতিবন্ধী সহায়তা",
+                "প্রতিবেশী রিপোর্ট করুন"
+            ]
+        }
+    ]
+}

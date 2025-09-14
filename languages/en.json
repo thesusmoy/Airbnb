@@ -1,0 +1,126 @@
+{
+    "Navbar": {
+        "home": "Homes",
+        "service": "Services",
+        "experience": "Experiences",
+        "rightSide": {
+            "become-a-host": "Become a host",
+            "help-center": {
+                "index": "Help Center",
+                "become-a-host": "Become a host",
+                "short-info": "It's easy to start hosting and earn money",
+                "refer-host": "Refer a host",
+                "cohost": "Find a co-host",
+                "gift-cards": "Gift cards",
+                "login-signup": "Log in or Sign up"
+            }
+        }
+    },
+    "SecondRow": {
+        "where": "Where",
+        "placeholder": "Search your destination",
+        "checkIn": "Check in",
+        "checkOut": "Check out",
+        "who": "Who",
+        "checkInOutDescription": "Add dates",
+        "guest": "Add guests"
+    },
+    "SecondScrolledRow": {
+        "anytime": "Anytime",
+        "anywhere": "Anywhere",
+        "add-guests": "Add guests"
+    },
+    "Hotels": {
+        "guests-favorite": "Guests favorite",
+        "Cozy Beachfront Cottage": "Cozy Beachfront Cottage",
+        "Modern Downtown Loft": "Modern Downtown Loft",
+        "Rustic Mountain Cabin": "Rustic Mountain Cabin",
+        "Charming Parisian Apartment": "Charming Parisian Apartment",
+        "Luxury Villa with Private Pool": "Luxury Villa with Private Pool",
+        "Secluded Treehouse Getaway": "Secluded Treehouse Getaway",
+        "Historic Charleston Single House": "Historic Charleston Single House",
+        "Sunny Scottsdale Oasis": "Sunny Scottsdale Oasis",
+        "New Orleans Garden District Charm": "New Orleans Garden District Charm",
+        "Chicago Skyline View Penthouse": "Chicago Skyline View Penthouse"
+    },
+    "HotelTitles": {
+        "popular-homes-in-kuala-lumpur": "Popular homes in Kuala Lumpur",
+        "available-next-month-is-bangkok": "Available next month is Bangkok",
+        "stay-in-london": "Stay in London",
+        "homes-in-tokyo": "Homes in Tokyo",
+        "available-next-month-in-toronto": "Available next month in Toronto",
+        "homes-in-seoul": "Homes in Seoul",
+        "popular-homes-in-busan": "Popular homes in Busan"
+    },
+    "Inspiration": {
+        "title": "Inspiration for future getaways",
+        "travel-tips-tab": "Travel tips & inspiration",
+        "airbnb-friendly-tab": "Airbnb-friendly apartments",
+        "family-travel-hub-title": "Family travel hub",
+        "family-travel-hub-subtitle": "Tips and inspiration",
+        "family-budget-travel-title": "Family budget travel",
+        "family-budget-travel-subtitle": "Get there for less",
+        "vacation-ideas-title": "Vacation ideas for any budget",
+        "vacation-ideas-subtitle": "Make it special without making it",
+        "travel-europe-title": "Travel Europe on a budget",
+        "travel-europe-subtitle": "How to take the kids to Europe",
+        "outdoor-adventure-title": "Outdoor adventure",
+        "outdoor-adventure-subtitle": "Explore nature with the family",
+        "bucket-list-parks-title": "Bucket list national parks",
+        "bucket-list-parks-subtitle": "Must-see parks for family travel",
+        "kid-friendly-parks-title": "Kid-friendly state parks",
+        "kid-friendly-parks-subtitle": "Check out these family-friendly",
+        "albuquerque-title": "Albuquerque",
+        "albuquerque-subtitle": "New Mexico",
+        "atlanta-metro-title": "Atlanta Metro",
+        "atlanta-metro-subtitle": "Georgia",
+        "augusta-title": "Augusta",
+        "augusta-subtitle": "Georgia",
+        "austin-metro-title": "Austin Metro",
+        "austin-metro-subtitle": "Texas",
+        "baton-rouge-title": "Baton Rouge",
+        "baton-rouge-subtitle": "Louisiana",
+        "bentonville-title": "Bentonville",
+        "bentonville-subtitle": "Arkansas",
+        "birmingham-title": "Birmingham",
+        "birmingham-subtitle": "Alabama"
+    },
+    "FooterLinks": [
+        {
+            "title": "Support",
+            "links": [
+                "Help Center",
+                "Get help with a safety issue",
+                "AirCover",
+                "Anti-discrimination",
+                "Cancellation options",
+                "Disability support",
+                "Report neighborhood"
+            ]
+        },
+        {
+            "title": "Hosting",
+            "links": [
+                "Help Center",
+                "Get help with a safety issue",
+                "AirCover",
+                "Anti-discrimination",
+                "Cancellation options",
+                "Disability support",
+                "Report neighborhood"
+            ]
+        },
+        {
+            "title": "Airbnb",
+            "links": [
+                "Help Center",
+                "Get help with a safety issue",
+                "AirCover",
+                "Anti-discrimination",
+                "Cancellation options",
+                "Disability support",
+                "Report neighborhood"
+            ]
+        }
+    ]
+}
